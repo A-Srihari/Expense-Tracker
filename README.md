@@ -14,11 +14,9 @@ This project allows users to register, log in, and manage their daily expenses w
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
-
 <h3>Backend</h3>
 <li>Java</li>
 <li>Springboot</li>
-<li></li>
 <li>Spring Data JPA</li>
 <li>Hibernate</li>
 <li>MySQL</li>
