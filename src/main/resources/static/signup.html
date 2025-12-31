@@ -1,10 +1,25 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signup - Expense Tracker</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-$END$
+
+<div class="container auth-container">
+    <h2>💰 Create Account</h2>
+
+    <input type="text" id="name" placeholder="Full Name">
+    <input type="email" id="email" placeholder="Email Address">
+    <input type="password" id="password" placeholder="Password">
+
+    <button class="primary-btn" onclick="signup()">Create Account</button>
+
+    <a href="login.html">Already have an account? Login</a>
+</div>
+
+<script src="js/auth.js"></script>
 </body>
 </html>

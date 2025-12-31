@@ -1,4 +1,4 @@
-package com.srihari.expensetracker.expensetracker.service;
+package com.srihari.expensetracker.service;
 
 public class AuthService {
 }

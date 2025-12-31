@@ -1,4 +1,4 @@
-package com.srihari.expensetracker.expensetracker;
+package com.srihari.expensetracker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

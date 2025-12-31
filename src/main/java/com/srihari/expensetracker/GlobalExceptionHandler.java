@@ -1,4 +1,4 @@
-package com.srihari.expensetracker.exception;
+package com.srihari.expensetracker;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
